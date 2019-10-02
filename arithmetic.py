@@ -45,3 +45,8 @@ def mod(num1, num2):
 def add_mult(num1, num2, num3):
     """ Sum of num1 and num2 and multiplied by num3"""
     return (num1 + num2) * num3
+
+
+def add_cubes(num1, num2):
+    """Adds the cube of num1 and num2"""
+    return (num1 ** 3) + (num2 ** 3)
